@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @zbthomas
 - 👀 I’m interested in React, A11y and CSS
-- 🌱 I’m currently learning React
 - 📫 How to reach me zbthomas[at]icloud.com
